@@ -1,0 +1,19 @@
+---
+layout: post
+title: "c"
+date: 2019-01-11
+categories: project
+---
+
+*By c*
+
+<html>
+  <head>
+
+  </head>
+  <body>
+    <p style="margin-top: 0">
+      c
+    </p>
+  </body>
+</html>
