@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Image new"
+date: 2019-01-13
+categories: project
+---
+
+*By Jordan*
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <h1>
+      Ma news avec une super image ! 
+    </h1>
+    <h1>
+      <img src="\blog\images-blog\ClassDiagram.png">
+    </h1>
+  </body>
+</html>
