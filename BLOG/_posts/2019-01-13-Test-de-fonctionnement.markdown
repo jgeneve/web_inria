@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "test push rapide"
+title: "Test de fonctionnement"
 date: 2019-01-13
 categories: project
 ---
@@ -13,7 +13,7 @@ categories: project
   </head>
   <body>
     <p style="margin-top: 0">
-      frfrfr
+      Tout <b>fonctionne</b> ? 
     </p>
   </body>
 </html>
